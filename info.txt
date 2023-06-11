@@ -1,4 +1,0 @@
-pip install datsets transformers[sentencepiece]
-pip install sentencepiece
-!pip install transformers
-!pip install sentencepiece
